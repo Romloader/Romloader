@@ -1,4 +1,4 @@
-### Not exactly active on here GitHub but you can find me on
+### Not exactly active here on GitHub but you can find me on
 
 <table>
   <tr>
