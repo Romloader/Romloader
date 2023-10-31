@@ -14,7 +14,7 @@
       <img src="https://git.ducky.rocks/uploads/-/system/appearance/logo/1/logoheader.gif" alt="DuckyRocks GitLab" width="50"/>
     </td>
     <td>
-      <a href="https://git.ducky.rocks/Romloader">DuckyRocks GitLab</a>
+      <a href="https://git.ducky.rocks/Romloader">Ducky's Git</a>
     </td>
   </tr>
 </table>
